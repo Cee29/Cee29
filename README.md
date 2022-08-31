@@ -8,7 +8,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Cyber Defense Professional Certificate Program](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Cyber Defense Professional Certificate Program]
 
 
 <h2> 🤳 Connect with me:</h2>

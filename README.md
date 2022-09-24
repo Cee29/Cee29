@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab]
   - [Computer Networking Project](https://github.com/Cee29/Computer-Network-Final-Project)
-  - [Network Security Project]
+  - [Network Security Project](https://github.com/Cee29/Network-Security-Final-Project)
 
 <h2>📄 Certifications</h2>
 

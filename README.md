@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]
+  - [Active Directory Home Lab](https://github.com/Cee29/Active-Directory-Home-Lab/blob/main/README.md)
   - [Computer Networking Project](https://github.com/Cee29/Computer-Network-Final-Project)
   - [Network Security Project](https://github.com/Cee29/Network-Security-Final-Project)
 

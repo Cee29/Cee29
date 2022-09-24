@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab]
-  - [Computer Networking Project]
+  - [Computer Networking Project](https://github.com/Cee29/Computer-Network-Final-Project)
   - [Network Security Project]
 
 <h2>📄 Certifications</h2>
